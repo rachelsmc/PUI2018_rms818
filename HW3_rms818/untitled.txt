@@ -1,0 +1,19 @@
+import os
+import json
+import sys
+
+try:
+    import urllib2 as urllib
+except ImportError:
+    import urllib.request as urllib
+
+python show_bus_locations.py 013d007d-d42d-440b-a79e-a9f2ea7d0758 <BUS_LINE>
+
+
+#url = "http://api.openweathermap.org/data/2.5/weather?q=NewYork&mode=Json&units=metric&&cnt=7&APPID=XXXXXXXXXXXXXXXXXXXXXXXX"
+url = "http://api.openweathermap.org/data/2.5/weather?q=" + \
+    "New York&APPID=" + os.getenv("OPENWEATHERKEY") 
+#print (url)
+response = urllib.urlopen(url)
+data = response.read().decode("utf-8")
+data = json.loads(data) 

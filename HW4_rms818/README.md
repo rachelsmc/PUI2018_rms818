@@ -11,4 +11,5 @@ Question formulated: Do men cycle longer distances compared to women? Null hypot
 Completed assignment 3 using Z-test to understand if the implementation of an alternative bus route for bus line X8 improves circulation.
 Z-score reflected a 2.56 which was more than 0.05 thus rejecting the null hypothesis.
 
+## Collaboration
 All three assignments were done and discussed collaboratively with Klo'e, Qinyu and Vaidehi in group discussions (and some other people who were in the same working space!)

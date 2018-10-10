@@ -1,3 +1,6 @@
+# Assignment 1
+Forked Ursula's repo and provided peer review as a .md file and submitted a pull request to merge repo. 
+
 # Assignment 2
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
@@ -15,3 +18,9 @@ logistic regression	| 27, age, race, employment status, oral contraceptive use, 
 
 ## Logistic Regression
 ![Alt text](../HW5_rms818/logisticregression.PNG)
+
+# Assignment 3
+Completed the skeleton notebook to run chi-square tests, work with Vaidehi, Qinyu, and Klo'e for this.
+
+# Assignment 4
+Ran KS, Pearson's, and Spearman's test for trip duration of day vs night and age of brooklyn vs manhattan riders to see if there was a difference in distribution. Worked with Vaidehi, Klo'e, and Qinyu for this.

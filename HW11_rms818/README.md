@@ -1,5 +1,6 @@
 ### Assignment 1
-Time Series Analysis on subway ridership. Worked with ...
+- Time Series Analysis on subway ridership
+- Worked with Klo'e, Marvin, Qinyu, and Urwa for this assignment, couldn't complete it sigh
 
 ### Assignment 2
 - Edited plot from homework 8 based on reviews
